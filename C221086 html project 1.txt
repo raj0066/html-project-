@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Multiple Choise Questions</title>
+</head>
+<body>
+	<h1>Multiple Choise Questions</h1>
+	<form action="process.php" method="get">
+	<p>1. What is the color of Bangladesh flag?</p>
+	 <ul>
+	  <li>
+	  <input type="radio" id="gr" name="flag" value="Green and Red">
+	  <lable for="gr">Green and Red</lable>
+	  </li>
+	  <li>
+	  <input type="radio" id="wr" name="flag" value="White and Red">
+	  <lable for="wr">White and Red</lable>
+	  </li>
+	  <li>
+	  <input type="radio" id="gw" name="flag" value="Green and White">
+	  <lable for="gw">Green and White</lable>
+	  </li>
+	  <li>
+	  <input type="radio" id="bwr" name="flag" value="Blue,White,Red">
+	  <lable for="bwr">Blue,White,Red</lable>
+	  </li>
+	 </ul>
+	<p>2. Which fruit is called the king of frutis in Bangladesh?</p>
+	 <ul>
+	  <li>
+	  <input type="radio" id="jack" name="fruit" value="Jackfruit">
+	  <lable for="jack">Jackfruit</lable>
+	  </li>
+	  <li>
+	  <input type="radio" id="mango" name="fruit" value="Mango">
+	  <lable for="mango">Mango</lable>
+	  </li>
+	  <li>
+	  <input type="radio" id="lychee" name="fruit" value="Lychee">
+	  <lable for="lychee">Lychee</lable>
+	  </li>
+	  <li>
+	  <input type="radio" id="java" name="fruit" value="Java Plum">
+	  <lable for="java">Java Plum</lable>
+	  </li>
+	 </ul>
+	<p>3. Which country has the largest muslim population in the world today?</p>
+	 <ul>
+	  <li>
+	  <input type="radio" id="indo" name="pop" value="Indonesia">
+	  <lable for="indo">Indonesia</lable>
+	  </li>
+	  <li>
+	  <input type="radio" id="pk" name="pop" value="Pakistan">
+	  <lable for="pk">Pakistan</lable>
+	  </li>
+	  <li>
+	  <input type="radio" id="ind" name="pop" value="India">
+	  <lable for="ind">India</lable>
+	  </li>
+	  <li>
+	  <input type="radio" id="sa" name="pop" value="Saudi Arabia">
+	  <lable for="sa">Saudi Arabia</lable>
+	  </li>
+	 </ul>
+	<p>4. Which country produces the most oil?</p>
+	 <ul>
+	  <li>
+	  <input type="radio" id="sa" name="oil" value="Saudi Arabia">
+	  <lable for="sa">Saudi Arabia</lable>
+	  </li>
+	  <li>
+	  <input type="radio" id="rus" name="oil" value="Russia">
+	  <lable for="rus">Russia</lable>
+	  </li>
+	  <li>
+	  <input type="radio" id="qtr" name="oil" value="Qatar">
+	  <lable for="qtr">Qatar</lable>
+	  </li>
+	  <li>
+	  <input type="radio" id="usa" name="oil" value="United States">
+	  <lable for="usa">United States</lable>
+	  </li>
+	 </ul>
+	<p>5. Which country produced the most rice in 2023?</p>
+	 <ul>
+	  <li>
+	  <input type="radio" id="chi" name="rice" value="China">
+	  <lable for="chi">China</lable>
+	  </li>
+	  <li>
+	  <input type="radio" id="ind" name="rice" value="India">
+	  <lable for="ind">India</lable>
+	  </li>
+	  <li>
+	  <input type="radio" id="indo" name="rice" value="Indonesia">
+	  <lable for="indo">Indonesia</lable>
+	  </li>
+	  <li>
+	  <input type="radio" id="ban" name="rice" value="Bangladesh">
+	  <lable for="ban">Bangladesh</lable>
+	  </li>
+	 </ul>
+	<p>6. Which type of animal penguin is?</p>
+	 <ul>
+	  <li>
+	  <input type="radio" id="bird" name="ani" value="Bird">
+	  <lable for="bird">Bird</lable>
+	  </li>
+	  <li>
+	  <input type="radio" id="mam" name="ani" value="Mammal">
+	  <lable for="mam">Mammal</lable>
+	  </li>
+	  <li>
+	  <input type="radio" id="fish" name="ani" value="Fish">
+	  <lable for="fish">Fish</lable>
+	  </li>
+	 </ul>
+	<p>7. Which came first?</p>
+	 <ul>
+	  <li>
+	  <input type="radio" id="egg" name="one" value="Egg">
+	  <lable for="egg">Egg</lable>
+	  </li>
+	  <li>
+	  <input type="radio" id="chick" name="one" value="Chicken">
+	  <lable for="chick">Chicken</lable>
+	  </li>
+	 </ul>
+	<p>8. When is the independence day of bangladesh?</p>
+	 <ul>
+	  <li>
+	  <input type="radio" id="o1" name="id" value="26th March">
+	  <lable for="o1">26th March</lable>
+	  </li>
+	  <li>
+	  <input type="radio" id="o2" name="id" value="17th December">
+	  <lable for="o2">17th December</lable>
+	  </li>
+	  <li>
+	  <input type="radio" id="o3" name="id" value="21st February">
+	  <lable for="o3">21st February</lable>
+	  </li>
+	 </ul>
+
+
+
+
+	
+
+	<input type="submit" value"Submit">
+	</form>
+</body>
+</html>
+
+
+
+	
+	
